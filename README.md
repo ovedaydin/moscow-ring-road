@@ -1,6 +1,6 @@
 # moscow-ring-road
 
-
+![](https://media.giphy.com/media/YIOGWJyappSafEpDKx/giphy.gif)
 
 ## You can check the app here
 https://moscowring.serve.ovedaydin.com/
